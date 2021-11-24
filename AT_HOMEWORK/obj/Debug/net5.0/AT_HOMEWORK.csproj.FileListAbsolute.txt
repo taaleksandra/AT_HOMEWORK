@@ -1,0 +1,16 @@
+D:\olata\sql\INIT\LAB1\AT_HOMEWORK\AT_HOMEWORK\bin\Debug\net5.0\AT_HOMEWORK.exe
+D:\olata\sql\INIT\LAB1\AT_HOMEWORK\AT_HOMEWORK\bin\Debug\net5.0\AT_HOMEWORK.deps.json
+D:\olata\sql\INIT\LAB1\AT_HOMEWORK\AT_HOMEWORK\bin\Debug\net5.0\AT_HOMEWORK.runtimeconfig.json
+D:\olata\sql\INIT\LAB1\AT_HOMEWORK\AT_HOMEWORK\bin\Debug\net5.0\AT_HOMEWORK.runtimeconfig.dev.json
+D:\olata\sql\INIT\LAB1\AT_HOMEWORK\AT_HOMEWORK\bin\Debug\net5.0\AT_HOMEWORK.dll
+D:\olata\sql\INIT\LAB1\AT_HOMEWORK\AT_HOMEWORK\bin\Debug\net5.0\ref\AT_HOMEWORK.dll
+D:\olata\sql\INIT\LAB1\AT_HOMEWORK\AT_HOMEWORK\bin\Debug\net5.0\AT_HOMEWORK.pdb
+D:\olata\sql\INIT\LAB1\AT_HOMEWORK\AT_HOMEWORK\obj\Debug\net5.0\AT_HOMEWORK.csproj.AssemblyReference.cache
+D:\olata\sql\INIT\LAB1\AT_HOMEWORK\AT_HOMEWORK\obj\Debug\net5.0\AT_HOMEWORK.GeneratedMSBuildEditorConfig.editorconfig
+D:\olata\sql\INIT\LAB1\AT_HOMEWORK\AT_HOMEWORK\obj\Debug\net5.0\AT_HOMEWORK.AssemblyInfoInputs.cache
+D:\olata\sql\INIT\LAB1\AT_HOMEWORK\AT_HOMEWORK\obj\Debug\net5.0\AT_HOMEWORK.AssemblyInfo.cs
+D:\olata\sql\INIT\LAB1\AT_HOMEWORK\AT_HOMEWORK\obj\Debug\net5.0\AT_HOMEWORK.csproj.CoreCompileInputs.cache
+D:\olata\sql\INIT\LAB1\AT_HOMEWORK\AT_HOMEWORK\obj\Debug\net5.0\AT_HOMEWORK.dll
+D:\olata\sql\INIT\LAB1\AT_HOMEWORK\AT_HOMEWORK\obj\Debug\net5.0\ref\AT_HOMEWORK.dll
+D:\olata\sql\INIT\LAB1\AT_HOMEWORK\AT_HOMEWORK\obj\Debug\net5.0\AT_HOMEWORK.pdb
+D:\olata\sql\INIT\LAB1\AT_HOMEWORK\AT_HOMEWORK\obj\Debug\net5.0\AT_HOMEWORK.genruntimeconfig.cache

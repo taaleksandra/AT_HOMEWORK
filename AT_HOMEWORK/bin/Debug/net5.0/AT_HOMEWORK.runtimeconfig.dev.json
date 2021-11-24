@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\olata\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\olata\\.nuget\\packages"
+    ]
+  }
+}
